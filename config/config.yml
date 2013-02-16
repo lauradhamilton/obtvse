@@ -3,8 +3,8 @@ title:               Laura Diane Hamilton
 tagline:             Clever tagline.
 login:               <%= ENV["obtvse_login"] ? ENV["obtvse_login"] : "username" %>
 password:            <%= ENV["obtvse_password"] ? ENV["obtvse_password"] : "password" %>
-name:                Your name
-twitter:             your_twitter_handle
-github:              your_github_handle
-email:               address@example.com
+name:                Laura Diane Hamilton
+twitter:             lauradhamilton
+github:              lauradhamilton
+email:               lauradhamilton@gmail.com
 google_analytics_id: YOUR_GA_ID
