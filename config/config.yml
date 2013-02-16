@@ -1,5 +1,5 @@
 ---
-title:               Obtvse Demo
+title:               Laura Diane Hamilton
 tagline:             Clever tagline.
 login:               <%= ENV["obtvse_login"] ? ENV["obtvse_login"] : "username" %>
 password:            <%= ENV["obtvse_password"] ? ENV["obtvse_password"] : "password" %>
