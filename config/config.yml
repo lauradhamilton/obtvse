@@ -1,6 +1,6 @@
 ---
 title:               Laura Diane Hamilton
-tagline:             Technology Executive.
+tagline:             Vice President of Analytics at BayRu, LLC.
 login:               <%= ENV["obtvse_login"] ? ENV["obtvse_login"] : "username" %>
 password:            <%= ENV["obtvse_password"] ? ENV["obtvse_password"] : "password" %>
 name:                Laura Diane Hamilton
@@ -8,4 +8,4 @@ linkedin:            lauradhamilton
 twitter:             lauradhamilton
 github:              lauradhamilton
 email:               lauradhamilton@gmail.com
-google_analytics_id: YOUR_GA_ID
+#google_analytics_id: YOUR_GA_ID
