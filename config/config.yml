@@ -4,6 +4,7 @@ tagline:             Technology Executive.
 login:               <%= ENV["obtvse_login"] ? ENV["obtvse_login"] : "username" %>
 password:            <%= ENV["obtvse_password"] ? ENV["obtvse_password"] : "password" %>
 name:                Laura Diane Hamilton
+linkedin:            lauradhamilton
 twitter:             lauradhamilton
 github:              lauradhamilton
 email:               lauradhamilton@gmail.com
