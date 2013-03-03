@@ -17,6 +17,10 @@
 /log/*.log
 /tmp
 
+#Ignore ssh keys
+id_rsa
+id_rsa.pub
+
 
 deploy.rb
 .DS_Store
